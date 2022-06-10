@@ -9,6 +9,6 @@
 - 💬 Ask me about my interests and hobbies, glad to share!
 - 📫 How to reach me: <a href = "mailto:DAYusein21@codingburgas.bg">DAYusein21@codingburgas.bg </a>
 - 😄 Pronouns: he/him, won't be pissed with others too
-- ⚡ Fun fact: I love Capybaras
-- <img src = "https://c.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif" width = "498" height = "278">
+- ⚡ Fun fact: I love Capybaras    
+-  <img src = "https://c.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif" width = "498" height = "278">
 
