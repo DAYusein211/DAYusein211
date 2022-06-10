@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1> Hi there 👋, I'm Denis and here are some things about me: </h1>
 
-<!--
-**DAYusein211/DAYusein211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on being a good front-end dev.
+- 🌱 I’m currently learning C++, CSS and HTML mainly, will learn JavaScript soon
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with nothing at the moment.
+- 💬 Ask me about my interests and hobbies, glad to share!
+- 📫 How to reach me: <a href = "mailto:DAYusein21@codingburgas.bg">DAYusein21@codingburgas.bg </a>
+- 😄 Pronouns: he/him, won't be pissed with others too
+- ⚡ Fun fact: I love Capybaras
+- <img src = "https://c.tenor.com/K3uxrqffdCAAAAAC/capybara-orange.gif" width = "200" height = "200">
+
