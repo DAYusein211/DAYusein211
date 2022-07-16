@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on being a good front-end dev.
-- 🌱 I’m currently learning C++, CSS and HTML mainly, will learn JavaScript soon
+- 🌱 I’m currently learning C++, HTML, CSS and JS.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with nothing at the moment.
 - 💬 Ask me about my interests and hobbies, glad to share!
