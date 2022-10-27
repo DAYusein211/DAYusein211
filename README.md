@@ -4,11 +4,8 @@
 
 - 🔭 I’m currently working on being a good front-end dev.
 - 🌱 I’m currently learning C++, HTML, CSS and JS.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with nothing at the moment.
-- 💬 Ask me about my interests and hobbies, glad to share!
 - 📫 How to reach me: <a href = "mailto:DAYusein21@codingburgas.bg">DAYusein21@codingburgas.bg </a>
-- 😄 he/him
+- 😄 he/him/his
 
 <h3> Languages and tools </h3>
 <div>
