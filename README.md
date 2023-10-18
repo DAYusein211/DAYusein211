@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on being a good front-end dev.
 - 🌱 I’m currently learning C++, HTML, CSS and JS.
 - 📫 How to reach me: <a href = "mailto:DAYusein21@codingburgas.bg">DAYusein21@codingburgas.bg </a>
-- 😄 he/him/his
 
 <h3> Languages and tools </h3>
 <div>
